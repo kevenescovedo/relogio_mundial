@@ -1,0 +1,4 @@
+
+
+
+const relogio = new Relogio();
